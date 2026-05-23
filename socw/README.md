@@ -90,20 +90,20 @@ Website Operator under the Contract or applicable law.*
 
 This contract governs how your website content may be accessed and used.
 
-The Contract also establishes a default Access Fee of £500 per Access Event,
-which is automatically incurred as the daily rate when the Website or its
-Content is accessed. This fee is conditionally waived only where the access
-falls strictly within permitted Licensed Access (such as Non-Commercial Use or
-Search Indexing) and all contractual conditions are met. Any failure to meet
-those conditions results in the Access Fee becoming immediately due.
+The Contract also establishes a default Access Fee of £500 per discrete
+“Product” accessed as a result of an Access Event, which is automatically
+incurred each time a Product is accessed outside the unwaived permitted licensed
+scope. This fee is conditionally waived only where the access falls strictly
+within permitted Licensed Access (such as Non-Commercial Use or Search Indexing)
+and all contractual conditions are met. Any failure to meet those conditions
+results in the Access Fee becoming immediately due.
 
 It applies to all forms of access, from ordinary human browsing, to search
 engine crawling and indexing, and sets clear limits on how that content may be
 reused.
 
 In particular, it permits search indexing only, while restricting scraping, bulk
-extraction, dataset creation, and any AI-related use unless expressly
-authorised.
+extraction, dataset creation, and any AI-related use unless expressly authorised.
 
 It operates alongside any general website terms (such as terms of use or cookie
 policies), but is focused specifically on content access, indexing, and
@@ -132,19 +132,14 @@ technology used.
 It covers access by:
 
 - individual human users,
-
 - companies and other organisations,
-
 - search engines,
-
 - automated crawlers and bots, and
-
 - Artificial Intelligence Systems or machine-driven agents.
 
 It applies equally whether access is:
 
 - manual, such as a person visiting pages through a browser, or
-
 - automated, such as bots, scrapers, crawlers, indexing tools, or AI-driven
   systems.
 
@@ -158,11 +153,10 @@ and is governed by its terms.
 Think of it as working in layers — both legal and technical — at the same time:
 
 ### Legal layer (the contract itself)
-
-The Contract is made visible on the website, for example through integration
-via a link into website terms of service (sometimes called Terms and
-Conditions, or Website Terms etc.) or as an additional legal footer link or
-an on-page notice.
+   The Contract is made visible on the website, for example through integration
+   via a link into website terms of service (sometimes called Terms and
+   Conditions, or Website Terms etc.) or as an additional legal footer link or
+   an on-page notice.
 
 Please see “How do I apply this Contract” question below for how to apply the
 Contract on your Website.
@@ -177,7 +171,6 @@ otherwise interacting with the website or its content.
 This ensures that:
 
 - the terms apply automatically, and
-
 - no user or system can argue that they were unaware of the terms.
 
 ### Technical layer (machine-readable signals)
@@ -189,9 +182,7 @@ permissions and restrictions to automated systems.
 These may include:
 
 - robots.txt files,
-
 - HTTP headers, and
-
 - other standard machine-readable signals.
 
 These signals tell automated systems — such as crawlers, bots, and AI systems —
@@ -209,7 +200,6 @@ For example:
 
 - search engines are permitted to crawl content strictly for search indexing and
   discovery;
-
 - AI systems and dataharvesting tools are not permitted to ingest content for
   training, datasets, or other AI-related uses without gaining explicit
   additional permission.
@@ -227,9 +217,7 @@ is run and used.
 In the same way as:
 
 - cookie policies explain how cookies and tracking technologies are used,
-
 - privacy notices explain how personal data is handled, and
-
 - general terms of use set out the overall rules for using the site,
 
 this contract focuses specifically on how website content may be accessed,
@@ -238,14 +226,13 @@ technologies.
 
 ## How do I apply this to my Website?
 
-How to implement the Search Only Terms Contract: for Access and Use of
-Website (the “**Contract**”) (Publisher instructions)
+**How to implement the** Search Only Terms Contract: for Access and Use of
+Website (the “**Contract**”) **(Publisher instructions)**
 
 Please follow the steps below to correctly implement the Contract on your
 website.
 
-**1. Use the official Movement for an Open Web (MOW) URL (no self-hosting
-required)**
+**1. Use the official MOW URL (no self-hosting required)**
 
 You must not create or host your own version of the Contract as the Contract is
 hosted and managed exclusively by MOW.
@@ -279,7 +266,7 @@ You should include a reference to the Search Only Terms Contract: for Access and
 Use of Website into your terms governing use of your website (for example, your
 website Terms and Conditions or Legal Notice).
 
-To validly incorporate the Contract into your website terms and condition, you
+To validly incorporate the Contract into your website terms and conditions, you
 should insert the following wording below into your website terms to formally
 incorporate the contract terms.
 
@@ -309,7 +296,7 @@ referenced MOW URL shall prevail.
 
 *(Insert only if you wish to apply a different contractual sum for small claims
 for breach of contract per [Clause 14]* Binding Search Only Contract for Access
-and Use of Website)
+and Use of Website)*
 
 **Optional insert – Clause 14 (Cost of Breach) Override**
 
@@ -332,10 +319,8 @@ you should archive your robots.txt file after updating it.
 A simple way to do this is using the Internet Archive (Wayback Machine):
 
 - Go to: [https://web.archive.org](https://web.archive.org/)
-
-- Enter: <https://yourdomain.com/robots.txt> into the "Save Page Now’ text box
+- Enter: <https://yourdomain.com/robots.txt> into the "Save Page Now” text box
   and press the Save Page button
-
 - Save a snapshot
 
 This provides timestamped proof that the instruction existed at that date.
@@ -435,10 +420,8 @@ include:
 
 1. robots.txt or equivalent machine-readable directives, which communicate the
    primary location of the Contract defined as a link;
-
 2. legal footers or notices displayed on the Website, which set out binding
    terms of access;
-
 3. terms and conditions or contractual documents, where this Contract is
    referenced as governing specific categories of use (for example, indexing,
    crawling, or content access).
@@ -465,10 +448,8 @@ In the event of any conflict:
 
 - This Contract governs permitted crawling, indexing, and content reuse
   conditions for those activities;
-
 - Other contractual terms may govern different aspects of the relationship (such
   as paid services, accounts, or paywalled content);
-
 - Any apparent inconsistency should be interpreted so that both sets of terms
   operate harmoniously where possible, but this Contract remains determinative
   for content access and reuse permissions unless expressly stated otherwise in
@@ -489,13 +470,10 @@ or access method. For example:
 
 - General consumers accessing public pages for non-commercial use may be subject
   to this Contract for browsing and indexing conditions;
-
 - Registered consumers, subscribers, or paying consumers may also be subject to
   additional contractual terms (such as paywalls or service agreements);
-
 - Automated systems such as search engine crawlers are subject to specific
   permissions relating to indexing and permitted crawling activity.
-
 - This reflects the fact that not all access is identical, and different legal
   frameworks may apply depending on how the Website is used.
 
@@ -521,13 +499,10 @@ additional contractual conditions for access and use of Website Content.
 This means:
 
 - Copyright law continues to apply independently;
-
 - This Contract governs the conditions under which access is granted;
-
 - Certain uses (such as indexing for search engines) are permitted, while other
   uses (such as AI training or dataset creation) require separate permission;
   and
-
 - Rapid action can be taken via cost effective legal means (see later).
 
 *LEGAL NOTE:*
@@ -703,7 +678,6 @@ directives are used to communicate access permissions to automated systems.
 These signals operate alongside this Contract and are intended to ensure that:
 
 - permitted search indexing remains enabled; and
-
 - prohibited uses such as AI training, bulk scraping, or dataset construction
   are clearly restricted.
 
@@ -872,6 +846,18 @@ and resolves many others without further litigation.
 *Avoid locking yourself into a single forum in publicfacing wording.*
 
 *Retain discretion language such as “may” rather than “will”.*
+
+**How do I make a claim?**
+
+The Contract provides a structured framework for bringing claims as a debt after
+issuing the invoice, including the ability to recover sums due through England
+and Wales small claims track via Money Claim Online. We have prepared a "Guide
+to Small Claims via Money Claims Online", which will guide you through the
+practical steps such as issuing invoices, sending a Letter Before Claim, and
+using the streamlined procedure envisioned by using the small claims track where
+appropriate. The approach is designed to enable efficient and proportionate
+enforcement, including by publishers without extensive litigation resources.
+(For more detail, please see the Small Claims Guidance.) 
 
 ### Should enforcement prioritise an early test case?
 
