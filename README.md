@@ -31,7 +31,7 @@ example; as headers in HTTP.
 
 The main branch of the repository is published at the domain `m4ow.uk`.
 Therefore to access the first version of the Search Only Contract Web (`socw`)
-the TDL or URL will be <https://m4ow.uk/socw/1.txt>.
+the TDL or URL will be <https://m4ow.uk/socw/2.txt>.
 
 Those referencing terms documents in this repository must refer to a number
 document.
