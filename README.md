@@ -1,3 +1,5 @@
+[![Movement for an Open Web](https://movementforanopenweb.com/wp-content/uploads/2021/09/MOW-LOGO_MOW-HORIZONTAL.svg)](https://movementforanopenweb.com)
+
 # Introduction
 
 All data label terms documents stewarded by Movement for an Open Web are located
