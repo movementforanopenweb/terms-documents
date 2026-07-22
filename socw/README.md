@@ -1,6 +1,6 @@
-FREQUENTLY ASKED QUESTIONS FOR
+[![Movement for an Open Web](https://movementforanopenweb.com/wp-content/uploads/2021/09/MOW-LOGO_MOW-HORIZONTAL.svg)](https://movementforanopenweb.com)
 
-THE SEARCH ONLY TERMS CONTRACT
+FREQUENTLY ASKED QUESTIONS FOR THE SEARCH ONLY TERMS CONTRACT
 
 **DISCLAIMER**
 
